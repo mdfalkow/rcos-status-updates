@@ -1,22 +1,18 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+    Last week our group broke up into different sub-groups and scheduled meeting times for each team.
+    These sub-groups will each focus on one of the following pieces:
+        * Backend - developing backend.
+        * Plugin - developing the Atom Plugin.
+        * Curriculum - developing a curriculum in React.js.
+        * Framework Experts - learning a framework so they can be our 'resident expert' in that framework.
+        * Website - developing a website for our project.
+    My specific role is to work on the Atom Plugin
 
 ## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+    
+    This weeks plan is for each sub-group to meet and discuss each members' roles and other specific details about development.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+    The Plugin Team has yet to meet to decide individual roles.
