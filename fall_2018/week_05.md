@@ -2,13 +2,12 @@
 
 Continued to work on basic scripting. Discussed functionality within [Ethan Graf](https://github.com/eagraf) and [Bradford Stone](https://github.com/kazooiebee).
 
+Just found the Atom API documentation! 
+
 ## This Week's Plan
 
-Going to start working on implementing the desired functionality for the plugin.
-
-## Anything Blocking?
-
-Waiting on someone to push their code to the repository.
+Starting to work on implementing the desired functionality for the plugin. 
+The API docs should help me move forward easier. 
 
 ## Notes
 
