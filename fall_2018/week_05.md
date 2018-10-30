@@ -2,7 +2,7 @@
 
 Continued to work on basic scripting. Discussed functionality within [Ethan Graf](https://github.com/eagraf) and [Bradford Stone](https://github.com/kazooiebee).
 
-Just found the Atom API documentation! 
+[Just found the Atom API documentation!](https://atom.io/docs/api/v1.32.0/AtomEnvironment)
 
 ## This Week's Plan
 
